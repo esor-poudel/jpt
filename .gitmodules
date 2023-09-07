@@ -1,0 +1,9 @@
+[submodule "saleor"]
+	path = saleor
+	url = git@github.com:esor-poudel/saleor.git
+[submodule "saleor-dashboard"]
+	path = saleor-dashboard
+	url = git@github.com:esor-poudel/saleor-dashboard.git
+[submodule "saleor-react-storefront"]
+	path = saleor-react-storefront
+	url = git@github.com:esor-poudel/saleor-react-storefront.git
